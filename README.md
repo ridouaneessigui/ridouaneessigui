@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning graphql
@@ -9,7 +6,6 @@ Here are some ideas to get you started:
 
 
 ### :hammer_and_wrench: Languages and Tools :
-
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title="kotlin" alt="kotlin" width="40" height="40"/>&nbsp;
