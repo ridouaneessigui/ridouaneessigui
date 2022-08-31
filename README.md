@@ -1,13 +1,5 @@
-### Hi there 👋
-
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning graphql
-- 💬 Ask me about MERN
-- 📫 How to reach me: ressigui1
-
-
+## Bonjour 
+je m apelle ridouane je suis devloppeur js et maintant je suis oriente vers c# asp.net.
 ### :hammer_and_wrench: Languages and Tools :
 
 
