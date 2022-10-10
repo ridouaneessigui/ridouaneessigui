@@ -1,5 +1,7 @@
 ## Hi, 
-My name is ridouane i'm devloper FULL-STACK almost seven years, i liked Reactjs/ReactNative/ASP.NET.
+My name is ridouane i'm devloper FULL-STACK almost seven years.
+I liked devlope with Reactjs, ReactNative and ASP.NET.
+
 ### :hammer_and_wrench: Languages and Tools :
 
 
