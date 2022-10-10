@@ -1,5 +1,5 @@
-## Bonjour 
-je m apelle ridouane je suis devloppeur js et maintant je suis oriente vers c# asp.net.
+## Hi, 
+My name is ridouane i'm devloper FULL-STACK almost seven years, i liked Reactjs/ReactNative/ASP.NET.
 ### :hammer_and_wrench: Languages and Tools :
 
 
