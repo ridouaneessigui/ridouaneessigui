@@ -1,6 +1,5 @@
-## Hi, 
-My name is ridouane i'm devloper FULL-STACK almost seven years.
-I liked devlope with Reactjs, ReactNative and ASP.NET.
+## Hello everyone, 
+My name is ridouane essigui, I am a seasoned developer with seven years of experience in the field. I have expertise in multiple languages and technologies, including C#, Flutter, React Native, ReactJS, Node.js, ASP.NET, and .NET. Throughout my career, I have worked on various projects, specializing in creating robust and scalable applications. My passion for problem-solving and my dedication to delivering high-quality solutions make me a valuable asset for any development project.
 
 ### :hammer_and_wrench: Languages and Tools :
 
