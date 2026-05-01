@@ -70,16 +70,18 @@ I'm a passionate Software Engineer with **7+ years of experience** building robu
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ridouaneessigui&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <a href="https://github.com/ridouaneessigui">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ridouaneessigui&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ridouaneessigui&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+  </a>
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ridouaneessigui&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridouaneessigui&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ridouaneessigui&theme=tokyonight&no-frame=true&row=1" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ridouaneessigui&theme=tokyonight&no-frame=true&row=1&column=8" alt="Trophies"/>
 </p>
 
 ---
